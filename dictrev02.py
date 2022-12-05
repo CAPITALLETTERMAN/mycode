@@ -20,7 +20,7 @@ def main():
 
     ## this SHOULD fail but it will not because we are using the .get method
     print("A safer way to recall that data is to use the .get method:", \
-      firewalldict.get('razzledazzlerootbeer'))
+      firewalldict.get('primary_ip', '192.168.70.1'))
 
     ## use the .keys method to return a list of keys
     print(firewalldict.keys())
