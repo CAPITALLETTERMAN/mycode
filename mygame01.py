@@ -107,7 +107,7 @@ while True:
     ## If a player enters a room with a monste
     if 'item' in rooms[currentRoom] and 'sword' in inventory and 'monster' in rooms[currentRoom]['item']:
         del rooms[currentRoom]['item']
-        print('You have slain the monster with your sword!')
+        print('You have slain the monster with your sword! There was much rejoicing!')
     if 'item' in rooms[currentRoom] and 'monster' in rooms[currentRoom]['item']:
         print('A monster has got you... GAME OVER!')
         break
