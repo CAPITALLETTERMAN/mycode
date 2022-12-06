@@ -63,17 +63,19 @@ def main():
     pokemon = requests.get(f"{POKEURL}?limit=1000")
     pokemon = pokemon.json()
 
+    allpoke =[]
     # Loop through data, and print pokemon names
     for poke in pokemon["results"]:
         # Display the value associated with 'name'
         #print(poke["name"])
         print(poke.get("name"))
+        allpoke.append(poke.get("name"))
 
     print(f"Total number of Pokemon returned: {len(pokemon['results'])}")
     
-    pokedf = pandas.DataFrame(pokemon)
+    pokedf = pandas.DataFrame(allpoke)
 
-    pokedf.to_csv("pokemonlist.csv", index=False)
+    pokedf.to_csv("pokemonlist.csv")
     pokedf.to_json("pokemonlist.json")
     pokedf.to_excel("pokemonlist.xlsx", index=False)
 

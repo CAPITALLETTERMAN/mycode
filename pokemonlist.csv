@@ -1,1001 +1,1001 @@
-count,next,previous,results
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bulbasaur', 'url': 'https://pokeapi.co/api/v2/pokemon/1/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ivysaur', 'url': 'https://pokeapi.co/api/v2/pokemon/2/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'venusaur', 'url': 'https://pokeapi.co/api/v2/pokemon/3/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charmander', 'url': 'https://pokeapi.co/api/v2/pokemon/4/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charmeleon', 'url': 'https://pokeapi.co/api/v2/pokemon/5/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charizard', 'url': 'https://pokeapi.co/api/v2/pokemon/6/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'squirtle', 'url': 'https://pokeapi.co/api/v2/pokemon/7/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wartortle', 'url': 'https://pokeapi.co/api/v2/pokemon/8/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blastoise', 'url': 'https://pokeapi.co/api/v2/pokemon/9/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'caterpie', 'url': 'https://pokeapi.co/api/v2/pokemon/10/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'metapod', 'url': 'https://pokeapi.co/api/v2/pokemon/11/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'butterfree', 'url': 'https://pokeapi.co/api/v2/pokemon/12/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'weedle', 'url': 'https://pokeapi.co/api/v2/pokemon/13/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kakuna', 'url': 'https://pokeapi.co/api/v2/pokemon/14/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beedrill', 'url': 'https://pokeapi.co/api/v2/pokemon/15/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pidgey', 'url': 'https://pokeapi.co/api/v2/pokemon/16/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pidgeotto', 'url': 'https://pokeapi.co/api/v2/pokemon/17/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pidgeot', 'url': 'https://pokeapi.co/api/v2/pokemon/18/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rattata', 'url': 'https://pokeapi.co/api/v2/pokemon/19/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raticate', 'url': 'https://pokeapi.co/api/v2/pokemon/20/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spearow', 'url': 'https://pokeapi.co/api/v2/pokemon/21/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fearow', 'url': 'https://pokeapi.co/api/v2/pokemon/22/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ekans', 'url': 'https://pokeapi.co/api/v2/pokemon/23/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arbok', 'url': 'https://pokeapi.co/api/v2/pokemon/24/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu', 'url': 'https://pokeapi.co/api/v2/pokemon/25/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raichu', 'url': 'https://pokeapi.co/api/v2/pokemon/26/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sandshrew', 'url': 'https://pokeapi.co/api/v2/pokemon/27/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sandslash', 'url': 'https://pokeapi.co/api/v2/pokemon/28/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidoran-f', 'url': 'https://pokeapi.co/api/v2/pokemon/29/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidorina', 'url': 'https://pokeapi.co/api/v2/pokemon/30/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidoqueen', 'url': 'https://pokeapi.co/api/v2/pokemon/31/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidoran-m', 'url': 'https://pokeapi.co/api/v2/pokemon/32/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidorino', 'url': 'https://pokeapi.co/api/v2/pokemon/33/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nidoking', 'url': 'https://pokeapi.co/api/v2/pokemon/34/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clefairy', 'url': 'https://pokeapi.co/api/v2/pokemon/35/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clefable', 'url': 'https://pokeapi.co/api/v2/pokemon/36/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vulpix', 'url': 'https://pokeapi.co/api/v2/pokemon/37/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ninetales', 'url': 'https://pokeapi.co/api/v2/pokemon/38/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jigglypuff', 'url': 'https://pokeapi.co/api/v2/pokemon/39/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wigglytuff', 'url': 'https://pokeapi.co/api/v2/pokemon/40/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zubat', 'url': 'https://pokeapi.co/api/v2/pokemon/41/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golbat', 'url': 'https://pokeapi.co/api/v2/pokemon/42/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'oddish', 'url': 'https://pokeapi.co/api/v2/pokemon/43/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gloom', 'url': 'https://pokeapi.co/api/v2/pokemon/44/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vileplume', 'url': 'https://pokeapi.co/api/v2/pokemon/45/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'paras', 'url': 'https://pokeapi.co/api/v2/pokemon/46/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'parasect', 'url': 'https://pokeapi.co/api/v2/pokemon/47/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'venonat', 'url': 'https://pokeapi.co/api/v2/pokemon/48/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'venomoth', 'url': 'https://pokeapi.co/api/v2/pokemon/49/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'diglett', 'url': 'https://pokeapi.co/api/v2/pokemon/50/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dugtrio', 'url': 'https://pokeapi.co/api/v2/pokemon/51/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meowth', 'url': 'https://pokeapi.co/api/v2/pokemon/52/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'persian', 'url': 'https://pokeapi.co/api/v2/pokemon/53/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'psyduck', 'url': 'https://pokeapi.co/api/v2/pokemon/54/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golduck', 'url': 'https://pokeapi.co/api/v2/pokemon/55/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mankey', 'url': 'https://pokeapi.co/api/v2/pokemon/56/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'primeape', 'url': 'https://pokeapi.co/api/v2/pokemon/57/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'growlithe', 'url': 'https://pokeapi.co/api/v2/pokemon/58/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arcanine', 'url': 'https://pokeapi.co/api/v2/pokemon/59/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'poliwag', 'url': 'https://pokeapi.co/api/v2/pokemon/60/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'poliwhirl', 'url': 'https://pokeapi.co/api/v2/pokemon/61/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'poliwrath', 'url': 'https://pokeapi.co/api/v2/pokemon/62/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'abra', 'url': 'https://pokeapi.co/api/v2/pokemon/63/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kadabra', 'url': 'https://pokeapi.co/api/v2/pokemon/64/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'alakazam', 'url': 'https://pokeapi.co/api/v2/pokemon/65/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'machop', 'url': 'https://pokeapi.co/api/v2/pokemon/66/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'machoke', 'url': 'https://pokeapi.co/api/v2/pokemon/67/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'machamp', 'url': 'https://pokeapi.co/api/v2/pokemon/68/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bellsprout', 'url': 'https://pokeapi.co/api/v2/pokemon/69/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'weepinbell', 'url': 'https://pokeapi.co/api/v2/pokemon/70/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'victreebel', 'url': 'https://pokeapi.co/api/v2/pokemon/71/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tentacool', 'url': 'https://pokeapi.co/api/v2/pokemon/72/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tentacruel', 'url': 'https://pokeapi.co/api/v2/pokemon/73/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'geodude', 'url': 'https://pokeapi.co/api/v2/pokemon/74/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'graveler', 'url': 'https://pokeapi.co/api/v2/pokemon/75/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golem', 'url': 'https://pokeapi.co/api/v2/pokemon/76/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ponyta', 'url': 'https://pokeapi.co/api/v2/pokemon/77/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rapidash', 'url': 'https://pokeapi.co/api/v2/pokemon/78/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slowpoke', 'url': 'https://pokeapi.co/api/v2/pokemon/79/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slowbro', 'url': 'https://pokeapi.co/api/v2/pokemon/80/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magnemite', 'url': 'https://pokeapi.co/api/v2/pokemon/81/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magneton', 'url': 'https://pokeapi.co/api/v2/pokemon/82/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'farfetchd', 'url': 'https://pokeapi.co/api/v2/pokemon/83/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'doduo', 'url': 'https://pokeapi.co/api/v2/pokemon/84/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dodrio', 'url': 'https://pokeapi.co/api/v2/pokemon/85/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seel', 'url': 'https://pokeapi.co/api/v2/pokemon/86/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dewgong', 'url': 'https://pokeapi.co/api/v2/pokemon/87/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grimer', 'url': 'https://pokeapi.co/api/v2/pokemon/88/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'muk', 'url': 'https://pokeapi.co/api/v2/pokemon/89/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shellder', 'url': 'https://pokeapi.co/api/v2/pokemon/90/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cloyster', 'url': 'https://pokeapi.co/api/v2/pokemon/91/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gastly', 'url': 'https://pokeapi.co/api/v2/pokemon/92/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'haunter', 'url': 'https://pokeapi.co/api/v2/pokemon/93/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gengar', 'url': 'https://pokeapi.co/api/v2/pokemon/94/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'onix', 'url': 'https://pokeapi.co/api/v2/pokemon/95/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drowzee', 'url': 'https://pokeapi.co/api/v2/pokemon/96/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hypno', 'url': 'https://pokeapi.co/api/v2/pokemon/97/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'krabby', 'url': 'https://pokeapi.co/api/v2/pokemon/98/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kingler', 'url': 'https://pokeapi.co/api/v2/pokemon/99/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'voltorb', 'url': 'https://pokeapi.co/api/v2/pokemon/100/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'electrode', 'url': 'https://pokeapi.co/api/v2/pokemon/101/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'exeggcute', 'url': 'https://pokeapi.co/api/v2/pokemon/102/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'exeggutor', 'url': 'https://pokeapi.co/api/v2/pokemon/103/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cubone', 'url': 'https://pokeapi.co/api/v2/pokemon/104/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'marowak', 'url': 'https://pokeapi.co/api/v2/pokemon/105/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hitmonlee', 'url': 'https://pokeapi.co/api/v2/pokemon/106/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hitmonchan', 'url': 'https://pokeapi.co/api/v2/pokemon/107/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lickitung', 'url': 'https://pokeapi.co/api/v2/pokemon/108/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'koffing', 'url': 'https://pokeapi.co/api/v2/pokemon/109/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'weezing', 'url': 'https://pokeapi.co/api/v2/pokemon/110/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rhyhorn', 'url': 'https://pokeapi.co/api/v2/pokemon/111/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rhydon', 'url': 'https://pokeapi.co/api/v2/pokemon/112/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chansey', 'url': 'https://pokeapi.co/api/v2/pokemon/113/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tangela', 'url': 'https://pokeapi.co/api/v2/pokemon/114/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kangaskhan', 'url': 'https://pokeapi.co/api/v2/pokemon/115/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'horsea', 'url': 'https://pokeapi.co/api/v2/pokemon/116/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seadra', 'url': 'https://pokeapi.co/api/v2/pokemon/117/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'goldeen', 'url': 'https://pokeapi.co/api/v2/pokemon/118/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seaking', 'url': 'https://pokeapi.co/api/v2/pokemon/119/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'staryu', 'url': 'https://pokeapi.co/api/v2/pokemon/120/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'starmie', 'url': 'https://pokeapi.co/api/v2/pokemon/121/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mr-mime', 'url': 'https://pokeapi.co/api/v2/pokemon/122/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scyther', 'url': 'https://pokeapi.co/api/v2/pokemon/123/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jynx', 'url': 'https://pokeapi.co/api/v2/pokemon/124/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'electabuzz', 'url': 'https://pokeapi.co/api/v2/pokemon/125/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magmar', 'url': 'https://pokeapi.co/api/v2/pokemon/126/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pinsir', 'url': 'https://pokeapi.co/api/v2/pokemon/127/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tauros', 'url': 'https://pokeapi.co/api/v2/pokemon/128/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magikarp', 'url': 'https://pokeapi.co/api/v2/pokemon/129/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gyarados', 'url': 'https://pokeapi.co/api/v2/pokemon/130/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lapras', 'url': 'https://pokeapi.co/api/v2/pokemon/131/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ditto', 'url': 'https://pokeapi.co/api/v2/pokemon/132/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eevee', 'url': 'https://pokeapi.co/api/v2/pokemon/133/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vaporeon', 'url': 'https://pokeapi.co/api/v2/pokemon/134/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jolteon', 'url': 'https://pokeapi.co/api/v2/pokemon/135/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'flareon', 'url': 'https://pokeapi.co/api/v2/pokemon/136/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'porygon', 'url': 'https://pokeapi.co/api/v2/pokemon/137/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'omanyte', 'url': 'https://pokeapi.co/api/v2/pokemon/138/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'omastar', 'url': 'https://pokeapi.co/api/v2/pokemon/139/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kabuto', 'url': 'https://pokeapi.co/api/v2/pokemon/140/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kabutops', 'url': 'https://pokeapi.co/api/v2/pokemon/141/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aerodactyl', 'url': 'https://pokeapi.co/api/v2/pokemon/142/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snorlax', 'url': 'https://pokeapi.co/api/v2/pokemon/143/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'articuno', 'url': 'https://pokeapi.co/api/v2/pokemon/144/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zapdos', 'url': 'https://pokeapi.co/api/v2/pokemon/145/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'moltres', 'url': 'https://pokeapi.co/api/v2/pokemon/146/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dratini', 'url': 'https://pokeapi.co/api/v2/pokemon/147/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dragonair', 'url': 'https://pokeapi.co/api/v2/pokemon/148/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dragonite', 'url': 'https://pokeapi.co/api/v2/pokemon/149/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mewtwo', 'url': 'https://pokeapi.co/api/v2/pokemon/150/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mew', 'url': 'https://pokeapi.co/api/v2/pokemon/151/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chikorita', 'url': 'https://pokeapi.co/api/v2/pokemon/152/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bayleef', 'url': 'https://pokeapi.co/api/v2/pokemon/153/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meganium', 'url': 'https://pokeapi.co/api/v2/pokemon/154/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cyndaquil', 'url': 'https://pokeapi.co/api/v2/pokemon/155/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'quilava', 'url': 'https://pokeapi.co/api/v2/pokemon/156/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'typhlosion', 'url': 'https://pokeapi.co/api/v2/pokemon/157/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'totodile', 'url': 'https://pokeapi.co/api/v2/pokemon/158/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'croconaw', 'url': 'https://pokeapi.co/api/v2/pokemon/159/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'feraligatr', 'url': 'https://pokeapi.co/api/v2/pokemon/160/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sentret', 'url': 'https://pokeapi.co/api/v2/pokemon/161/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'furret', 'url': 'https://pokeapi.co/api/v2/pokemon/162/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hoothoot', 'url': 'https://pokeapi.co/api/v2/pokemon/163/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'noctowl', 'url': 'https://pokeapi.co/api/v2/pokemon/164/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ledyba', 'url': 'https://pokeapi.co/api/v2/pokemon/165/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ledian', 'url': 'https://pokeapi.co/api/v2/pokemon/166/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spinarak', 'url': 'https://pokeapi.co/api/v2/pokemon/167/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ariados', 'url': 'https://pokeapi.co/api/v2/pokemon/168/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'crobat', 'url': 'https://pokeapi.co/api/v2/pokemon/169/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chinchou', 'url': 'https://pokeapi.co/api/v2/pokemon/170/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lanturn', 'url': 'https://pokeapi.co/api/v2/pokemon/171/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pichu', 'url': 'https://pokeapi.co/api/v2/pokemon/172/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cleffa', 'url': 'https://pokeapi.co/api/v2/pokemon/173/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'igglybuff', 'url': 'https://pokeapi.co/api/v2/pokemon/174/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'togepi', 'url': 'https://pokeapi.co/api/v2/pokemon/175/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'togetic', 'url': 'https://pokeapi.co/api/v2/pokemon/176/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'natu', 'url': 'https://pokeapi.co/api/v2/pokemon/177/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'xatu', 'url': 'https://pokeapi.co/api/v2/pokemon/178/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mareep', 'url': 'https://pokeapi.co/api/v2/pokemon/179/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'flaaffy', 'url': 'https://pokeapi.co/api/v2/pokemon/180/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ampharos', 'url': 'https://pokeapi.co/api/v2/pokemon/181/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bellossom', 'url': 'https://pokeapi.co/api/v2/pokemon/182/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'marill', 'url': 'https://pokeapi.co/api/v2/pokemon/183/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'azumarill', 'url': 'https://pokeapi.co/api/v2/pokemon/184/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sudowoodo', 'url': 'https://pokeapi.co/api/v2/pokemon/185/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'politoed', 'url': 'https://pokeapi.co/api/v2/pokemon/186/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hoppip', 'url': 'https://pokeapi.co/api/v2/pokemon/187/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skiploom', 'url': 'https://pokeapi.co/api/v2/pokemon/188/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jumpluff', 'url': 'https://pokeapi.co/api/v2/pokemon/189/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aipom', 'url': 'https://pokeapi.co/api/v2/pokemon/190/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sunkern', 'url': 'https://pokeapi.co/api/v2/pokemon/191/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sunflora', 'url': 'https://pokeapi.co/api/v2/pokemon/192/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yanma', 'url': 'https://pokeapi.co/api/v2/pokemon/193/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wooper', 'url': 'https://pokeapi.co/api/v2/pokemon/194/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'quagsire', 'url': 'https://pokeapi.co/api/v2/pokemon/195/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'espeon', 'url': 'https://pokeapi.co/api/v2/pokemon/196/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'umbreon', 'url': 'https://pokeapi.co/api/v2/pokemon/197/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'murkrow', 'url': 'https://pokeapi.co/api/v2/pokemon/198/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slowking', 'url': 'https://pokeapi.co/api/v2/pokemon/199/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'misdreavus', 'url': 'https://pokeapi.co/api/v2/pokemon/200/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'unown', 'url': 'https://pokeapi.co/api/v2/pokemon/201/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wobbuffet', 'url': 'https://pokeapi.co/api/v2/pokemon/202/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'girafarig', 'url': 'https://pokeapi.co/api/v2/pokemon/203/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pineco', 'url': 'https://pokeapi.co/api/v2/pokemon/204/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'forretress', 'url': 'https://pokeapi.co/api/v2/pokemon/205/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dunsparce', 'url': 'https://pokeapi.co/api/v2/pokemon/206/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gligar', 'url': 'https://pokeapi.co/api/v2/pokemon/207/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'steelix', 'url': 'https://pokeapi.co/api/v2/pokemon/208/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snubbull', 'url': 'https://pokeapi.co/api/v2/pokemon/209/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'granbull', 'url': 'https://pokeapi.co/api/v2/pokemon/210/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'qwilfish', 'url': 'https://pokeapi.co/api/v2/pokemon/211/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scizor', 'url': 'https://pokeapi.co/api/v2/pokemon/212/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shuckle', 'url': 'https://pokeapi.co/api/v2/pokemon/213/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'heracross', 'url': 'https://pokeapi.co/api/v2/pokemon/214/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sneasel', 'url': 'https://pokeapi.co/api/v2/pokemon/215/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'teddiursa', 'url': 'https://pokeapi.co/api/v2/pokemon/216/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ursaring', 'url': 'https://pokeapi.co/api/v2/pokemon/217/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slugma', 'url': 'https://pokeapi.co/api/v2/pokemon/218/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magcargo', 'url': 'https://pokeapi.co/api/v2/pokemon/219/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swinub', 'url': 'https://pokeapi.co/api/v2/pokemon/220/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'piloswine', 'url': 'https://pokeapi.co/api/v2/pokemon/221/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'corsola', 'url': 'https://pokeapi.co/api/v2/pokemon/222/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'remoraid', 'url': 'https://pokeapi.co/api/v2/pokemon/223/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'octillery', 'url': 'https://pokeapi.co/api/v2/pokemon/224/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'delibird', 'url': 'https://pokeapi.co/api/v2/pokemon/225/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mantine', 'url': 'https://pokeapi.co/api/v2/pokemon/226/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skarmory', 'url': 'https://pokeapi.co/api/v2/pokemon/227/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'houndour', 'url': 'https://pokeapi.co/api/v2/pokemon/228/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'houndoom', 'url': 'https://pokeapi.co/api/v2/pokemon/229/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kingdra', 'url': 'https://pokeapi.co/api/v2/pokemon/230/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'phanpy', 'url': 'https://pokeapi.co/api/v2/pokemon/231/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'donphan', 'url': 'https://pokeapi.co/api/v2/pokemon/232/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'porygon2', 'url': 'https://pokeapi.co/api/v2/pokemon/233/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stantler', 'url': 'https://pokeapi.co/api/v2/pokemon/234/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'smeargle', 'url': 'https://pokeapi.co/api/v2/pokemon/235/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tyrogue', 'url': 'https://pokeapi.co/api/v2/pokemon/236/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hitmontop', 'url': 'https://pokeapi.co/api/v2/pokemon/237/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'smoochum', 'url': 'https://pokeapi.co/api/v2/pokemon/238/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'elekid', 'url': 'https://pokeapi.co/api/v2/pokemon/239/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magby', 'url': 'https://pokeapi.co/api/v2/pokemon/240/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'miltank', 'url': 'https://pokeapi.co/api/v2/pokemon/241/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blissey', 'url': 'https://pokeapi.co/api/v2/pokemon/242/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raikou', 'url': 'https://pokeapi.co/api/v2/pokemon/243/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'entei', 'url': 'https://pokeapi.co/api/v2/pokemon/244/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'suicune', 'url': 'https://pokeapi.co/api/v2/pokemon/245/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'larvitar', 'url': 'https://pokeapi.co/api/v2/pokemon/246/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pupitar', 'url': 'https://pokeapi.co/api/v2/pokemon/247/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tyranitar', 'url': 'https://pokeapi.co/api/v2/pokemon/248/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lugia', 'url': 'https://pokeapi.co/api/v2/pokemon/249/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ho-oh', 'url': 'https://pokeapi.co/api/v2/pokemon/250/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'celebi', 'url': 'https://pokeapi.co/api/v2/pokemon/251/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'treecko', 'url': 'https://pokeapi.co/api/v2/pokemon/252/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grovyle', 'url': 'https://pokeapi.co/api/v2/pokemon/253/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sceptile', 'url': 'https://pokeapi.co/api/v2/pokemon/254/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'torchic', 'url': 'https://pokeapi.co/api/v2/pokemon/255/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'combusken', 'url': 'https://pokeapi.co/api/v2/pokemon/256/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blaziken', 'url': 'https://pokeapi.co/api/v2/pokemon/257/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mudkip', 'url': 'https://pokeapi.co/api/v2/pokemon/258/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'marshtomp', 'url': 'https://pokeapi.co/api/v2/pokemon/259/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swampert', 'url': 'https://pokeapi.co/api/v2/pokemon/260/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'poochyena', 'url': 'https://pokeapi.co/api/v2/pokemon/261/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mightyena', 'url': 'https://pokeapi.co/api/v2/pokemon/262/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zigzagoon', 'url': 'https://pokeapi.co/api/v2/pokemon/263/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'linoone', 'url': 'https://pokeapi.co/api/v2/pokemon/264/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wurmple', 'url': 'https://pokeapi.co/api/v2/pokemon/265/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'silcoon', 'url': 'https://pokeapi.co/api/v2/pokemon/266/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beautifly', 'url': 'https://pokeapi.co/api/v2/pokemon/267/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cascoon', 'url': 'https://pokeapi.co/api/v2/pokemon/268/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dustox', 'url': 'https://pokeapi.co/api/v2/pokemon/269/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lotad', 'url': 'https://pokeapi.co/api/v2/pokemon/270/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lombre', 'url': 'https://pokeapi.co/api/v2/pokemon/271/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ludicolo', 'url': 'https://pokeapi.co/api/v2/pokemon/272/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seedot', 'url': 'https://pokeapi.co/api/v2/pokemon/273/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nuzleaf', 'url': 'https://pokeapi.co/api/v2/pokemon/274/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shiftry', 'url': 'https://pokeapi.co/api/v2/pokemon/275/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'taillow', 'url': 'https://pokeapi.co/api/v2/pokemon/276/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swellow', 'url': 'https://pokeapi.co/api/v2/pokemon/277/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wingull', 'url': 'https://pokeapi.co/api/v2/pokemon/278/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pelipper', 'url': 'https://pokeapi.co/api/v2/pokemon/279/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ralts', 'url': 'https://pokeapi.co/api/v2/pokemon/280/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kirlia', 'url': 'https://pokeapi.co/api/v2/pokemon/281/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gardevoir', 'url': 'https://pokeapi.co/api/v2/pokemon/282/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'surskit', 'url': 'https://pokeapi.co/api/v2/pokemon/283/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'masquerain', 'url': 'https://pokeapi.co/api/v2/pokemon/284/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shroomish', 'url': 'https://pokeapi.co/api/v2/pokemon/285/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'breloom', 'url': 'https://pokeapi.co/api/v2/pokemon/286/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slakoth', 'url': 'https://pokeapi.co/api/v2/pokemon/287/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vigoroth', 'url': 'https://pokeapi.co/api/v2/pokemon/288/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slaking', 'url': 'https://pokeapi.co/api/v2/pokemon/289/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nincada', 'url': 'https://pokeapi.co/api/v2/pokemon/290/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ninjask', 'url': 'https://pokeapi.co/api/v2/pokemon/291/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shedinja', 'url': 'https://pokeapi.co/api/v2/pokemon/292/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'whismur', 'url': 'https://pokeapi.co/api/v2/pokemon/293/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'loudred', 'url': 'https://pokeapi.co/api/v2/pokemon/294/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'exploud', 'url': 'https://pokeapi.co/api/v2/pokemon/295/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'makuhita', 'url': 'https://pokeapi.co/api/v2/pokemon/296/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hariyama', 'url': 'https://pokeapi.co/api/v2/pokemon/297/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'azurill', 'url': 'https://pokeapi.co/api/v2/pokemon/298/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nosepass', 'url': 'https://pokeapi.co/api/v2/pokemon/299/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skitty', 'url': 'https://pokeapi.co/api/v2/pokemon/300/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'delcatty', 'url': 'https://pokeapi.co/api/v2/pokemon/301/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sableye', 'url': 'https://pokeapi.co/api/v2/pokemon/302/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mawile', 'url': 'https://pokeapi.co/api/v2/pokemon/303/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aron', 'url': 'https://pokeapi.co/api/v2/pokemon/304/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lairon', 'url': 'https://pokeapi.co/api/v2/pokemon/305/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aggron', 'url': 'https://pokeapi.co/api/v2/pokemon/306/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meditite', 'url': 'https://pokeapi.co/api/v2/pokemon/307/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'medicham', 'url': 'https://pokeapi.co/api/v2/pokemon/308/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'electrike', 'url': 'https://pokeapi.co/api/v2/pokemon/309/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'manectric', 'url': 'https://pokeapi.co/api/v2/pokemon/310/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'plusle', 'url': 'https://pokeapi.co/api/v2/pokemon/311/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'minun', 'url': 'https://pokeapi.co/api/v2/pokemon/312/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'volbeat', 'url': 'https://pokeapi.co/api/v2/pokemon/313/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'illumise', 'url': 'https://pokeapi.co/api/v2/pokemon/314/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'roselia', 'url': 'https://pokeapi.co/api/v2/pokemon/315/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gulpin', 'url': 'https://pokeapi.co/api/v2/pokemon/316/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swalot', 'url': 'https://pokeapi.co/api/v2/pokemon/317/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'carvanha', 'url': 'https://pokeapi.co/api/v2/pokemon/318/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sharpedo', 'url': 'https://pokeapi.co/api/v2/pokemon/319/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wailmer', 'url': 'https://pokeapi.co/api/v2/pokemon/320/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wailord', 'url': 'https://pokeapi.co/api/v2/pokemon/321/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'numel', 'url': 'https://pokeapi.co/api/v2/pokemon/322/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'camerupt', 'url': 'https://pokeapi.co/api/v2/pokemon/323/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'torkoal', 'url': 'https://pokeapi.co/api/v2/pokemon/324/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spoink', 'url': 'https://pokeapi.co/api/v2/pokemon/325/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grumpig', 'url': 'https://pokeapi.co/api/v2/pokemon/326/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spinda', 'url': 'https://pokeapi.co/api/v2/pokemon/327/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'trapinch', 'url': 'https://pokeapi.co/api/v2/pokemon/328/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vibrava', 'url': 'https://pokeapi.co/api/v2/pokemon/329/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'flygon', 'url': 'https://pokeapi.co/api/v2/pokemon/330/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cacnea', 'url': 'https://pokeapi.co/api/v2/pokemon/331/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cacturne', 'url': 'https://pokeapi.co/api/v2/pokemon/332/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swablu', 'url': 'https://pokeapi.co/api/v2/pokemon/333/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'altaria', 'url': 'https://pokeapi.co/api/v2/pokemon/334/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zangoose', 'url': 'https://pokeapi.co/api/v2/pokemon/335/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seviper', 'url': 'https://pokeapi.co/api/v2/pokemon/336/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lunatone', 'url': 'https://pokeapi.co/api/v2/pokemon/337/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'solrock', 'url': 'https://pokeapi.co/api/v2/pokemon/338/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'barboach', 'url': 'https://pokeapi.co/api/v2/pokemon/339/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'whiscash', 'url': 'https://pokeapi.co/api/v2/pokemon/340/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'corphish', 'url': 'https://pokeapi.co/api/v2/pokemon/341/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'crawdaunt', 'url': 'https://pokeapi.co/api/v2/pokemon/342/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'baltoy', 'url': 'https://pokeapi.co/api/v2/pokemon/343/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'claydol', 'url': 'https://pokeapi.co/api/v2/pokemon/344/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lileep', 'url': 'https://pokeapi.co/api/v2/pokemon/345/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cradily', 'url': 'https://pokeapi.co/api/v2/pokemon/346/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'anorith', 'url': 'https://pokeapi.co/api/v2/pokemon/347/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'armaldo', 'url': 'https://pokeapi.co/api/v2/pokemon/348/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'feebas', 'url': 'https://pokeapi.co/api/v2/pokemon/349/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'milotic', 'url': 'https://pokeapi.co/api/v2/pokemon/350/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'castform', 'url': 'https://pokeapi.co/api/v2/pokemon/351/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kecleon', 'url': 'https://pokeapi.co/api/v2/pokemon/352/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shuppet', 'url': 'https://pokeapi.co/api/v2/pokemon/353/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'banette', 'url': 'https://pokeapi.co/api/v2/pokemon/354/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'duskull', 'url': 'https://pokeapi.co/api/v2/pokemon/355/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dusclops', 'url': 'https://pokeapi.co/api/v2/pokemon/356/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tropius', 'url': 'https://pokeapi.co/api/v2/pokemon/357/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chimecho', 'url': 'https://pokeapi.co/api/v2/pokemon/358/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'absol', 'url': 'https://pokeapi.co/api/v2/pokemon/359/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wynaut', 'url': 'https://pokeapi.co/api/v2/pokemon/360/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snorunt', 'url': 'https://pokeapi.co/api/v2/pokemon/361/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'glalie', 'url': 'https://pokeapi.co/api/v2/pokemon/362/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spheal', 'url': 'https://pokeapi.co/api/v2/pokemon/363/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sealeo', 'url': 'https://pokeapi.co/api/v2/pokemon/364/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'walrein', 'url': 'https://pokeapi.co/api/v2/pokemon/365/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clamperl', 'url': 'https://pokeapi.co/api/v2/pokemon/366/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'huntail', 'url': 'https://pokeapi.co/api/v2/pokemon/367/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gorebyss', 'url': 'https://pokeapi.co/api/v2/pokemon/368/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'relicanth', 'url': 'https://pokeapi.co/api/v2/pokemon/369/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'luvdisc', 'url': 'https://pokeapi.co/api/v2/pokemon/370/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bagon', 'url': 'https://pokeapi.co/api/v2/pokemon/371/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shelgon', 'url': 'https://pokeapi.co/api/v2/pokemon/372/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'salamence', 'url': 'https://pokeapi.co/api/v2/pokemon/373/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beldum', 'url': 'https://pokeapi.co/api/v2/pokemon/374/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'metang', 'url': 'https://pokeapi.co/api/v2/pokemon/375/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'metagross', 'url': 'https://pokeapi.co/api/v2/pokemon/376/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'regirock', 'url': 'https://pokeapi.co/api/v2/pokemon/377/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'regice', 'url': 'https://pokeapi.co/api/v2/pokemon/378/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'registeel', 'url': 'https://pokeapi.co/api/v2/pokemon/379/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'latias', 'url': 'https://pokeapi.co/api/v2/pokemon/380/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'latios', 'url': 'https://pokeapi.co/api/v2/pokemon/381/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kyogre', 'url': 'https://pokeapi.co/api/v2/pokemon/382/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'groudon', 'url': 'https://pokeapi.co/api/v2/pokemon/383/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rayquaza', 'url': 'https://pokeapi.co/api/v2/pokemon/384/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jirachi', 'url': 'https://pokeapi.co/api/v2/pokemon/385/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deoxys-normal', 'url': 'https://pokeapi.co/api/v2/pokemon/386/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'turtwig', 'url': 'https://pokeapi.co/api/v2/pokemon/387/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grotle', 'url': 'https://pokeapi.co/api/v2/pokemon/388/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'torterra', 'url': 'https://pokeapi.co/api/v2/pokemon/389/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chimchar', 'url': 'https://pokeapi.co/api/v2/pokemon/390/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'monferno', 'url': 'https://pokeapi.co/api/v2/pokemon/391/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'infernape', 'url': 'https://pokeapi.co/api/v2/pokemon/392/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'piplup', 'url': 'https://pokeapi.co/api/v2/pokemon/393/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'prinplup', 'url': 'https://pokeapi.co/api/v2/pokemon/394/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'empoleon', 'url': 'https://pokeapi.co/api/v2/pokemon/395/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'starly', 'url': 'https://pokeapi.co/api/v2/pokemon/396/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'staravia', 'url': 'https://pokeapi.co/api/v2/pokemon/397/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'staraptor', 'url': 'https://pokeapi.co/api/v2/pokemon/398/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bidoof', 'url': 'https://pokeapi.co/api/v2/pokemon/399/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bibarel', 'url': 'https://pokeapi.co/api/v2/pokemon/400/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kricketot', 'url': 'https://pokeapi.co/api/v2/pokemon/401/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kricketune', 'url': 'https://pokeapi.co/api/v2/pokemon/402/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shinx', 'url': 'https://pokeapi.co/api/v2/pokemon/403/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'luxio', 'url': 'https://pokeapi.co/api/v2/pokemon/404/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'luxray', 'url': 'https://pokeapi.co/api/v2/pokemon/405/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'budew', 'url': 'https://pokeapi.co/api/v2/pokemon/406/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'roserade', 'url': 'https://pokeapi.co/api/v2/pokemon/407/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cranidos', 'url': 'https://pokeapi.co/api/v2/pokemon/408/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rampardos', 'url': 'https://pokeapi.co/api/v2/pokemon/409/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shieldon', 'url': 'https://pokeapi.co/api/v2/pokemon/410/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bastiodon', 'url': 'https://pokeapi.co/api/v2/pokemon/411/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'burmy', 'url': 'https://pokeapi.co/api/v2/pokemon/412/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wormadam-plant', 'url': 'https://pokeapi.co/api/v2/pokemon/413/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mothim', 'url': 'https://pokeapi.co/api/v2/pokemon/414/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'combee', 'url': 'https://pokeapi.co/api/v2/pokemon/415/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vespiquen', 'url': 'https://pokeapi.co/api/v2/pokemon/416/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pachirisu', 'url': 'https://pokeapi.co/api/v2/pokemon/417/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'buizel', 'url': 'https://pokeapi.co/api/v2/pokemon/418/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'floatzel', 'url': 'https://pokeapi.co/api/v2/pokemon/419/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cherubi', 'url': 'https://pokeapi.co/api/v2/pokemon/420/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cherrim', 'url': 'https://pokeapi.co/api/v2/pokemon/421/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shellos', 'url': 'https://pokeapi.co/api/v2/pokemon/422/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gastrodon', 'url': 'https://pokeapi.co/api/v2/pokemon/423/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ambipom', 'url': 'https://pokeapi.co/api/v2/pokemon/424/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drifloon', 'url': 'https://pokeapi.co/api/v2/pokemon/425/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drifblim', 'url': 'https://pokeapi.co/api/v2/pokemon/426/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'buneary', 'url': 'https://pokeapi.co/api/v2/pokemon/427/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lopunny', 'url': 'https://pokeapi.co/api/v2/pokemon/428/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mismagius', 'url': 'https://pokeapi.co/api/v2/pokemon/429/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'honchkrow', 'url': 'https://pokeapi.co/api/v2/pokemon/430/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'glameow', 'url': 'https://pokeapi.co/api/v2/pokemon/431/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'purugly', 'url': 'https://pokeapi.co/api/v2/pokemon/432/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chingling', 'url': 'https://pokeapi.co/api/v2/pokemon/433/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stunky', 'url': 'https://pokeapi.co/api/v2/pokemon/434/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skuntank', 'url': 'https://pokeapi.co/api/v2/pokemon/435/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bronzor', 'url': 'https://pokeapi.co/api/v2/pokemon/436/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bronzong', 'url': 'https://pokeapi.co/api/v2/pokemon/437/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bonsly', 'url': 'https://pokeapi.co/api/v2/pokemon/438/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mime-jr', 'url': 'https://pokeapi.co/api/v2/pokemon/439/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'happiny', 'url': 'https://pokeapi.co/api/v2/pokemon/440/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chatot', 'url': 'https://pokeapi.co/api/v2/pokemon/441/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spiritomb', 'url': 'https://pokeapi.co/api/v2/pokemon/442/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gible', 'url': 'https://pokeapi.co/api/v2/pokemon/443/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gabite', 'url': 'https://pokeapi.co/api/v2/pokemon/444/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'garchomp', 'url': 'https://pokeapi.co/api/v2/pokemon/445/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'munchlax', 'url': 'https://pokeapi.co/api/v2/pokemon/446/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'riolu', 'url': 'https://pokeapi.co/api/v2/pokemon/447/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lucario', 'url': 'https://pokeapi.co/api/v2/pokemon/448/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hippopotas', 'url': 'https://pokeapi.co/api/v2/pokemon/449/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hippowdon', 'url': 'https://pokeapi.co/api/v2/pokemon/450/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skorupi', 'url': 'https://pokeapi.co/api/v2/pokemon/451/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drapion', 'url': 'https://pokeapi.co/api/v2/pokemon/452/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'croagunk', 'url': 'https://pokeapi.co/api/v2/pokemon/453/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'toxicroak', 'url': 'https://pokeapi.co/api/v2/pokemon/454/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'carnivine', 'url': 'https://pokeapi.co/api/v2/pokemon/455/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'finneon', 'url': 'https://pokeapi.co/api/v2/pokemon/456/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lumineon', 'url': 'https://pokeapi.co/api/v2/pokemon/457/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mantyke', 'url': 'https://pokeapi.co/api/v2/pokemon/458/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snover', 'url': 'https://pokeapi.co/api/v2/pokemon/459/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'abomasnow', 'url': 'https://pokeapi.co/api/v2/pokemon/460/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'weavile', 'url': 'https://pokeapi.co/api/v2/pokemon/461/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magnezone', 'url': 'https://pokeapi.co/api/v2/pokemon/462/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lickilicky', 'url': 'https://pokeapi.co/api/v2/pokemon/463/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rhyperior', 'url': 'https://pokeapi.co/api/v2/pokemon/464/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tangrowth', 'url': 'https://pokeapi.co/api/v2/pokemon/465/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'electivire', 'url': 'https://pokeapi.co/api/v2/pokemon/466/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magmortar', 'url': 'https://pokeapi.co/api/v2/pokemon/467/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'togekiss', 'url': 'https://pokeapi.co/api/v2/pokemon/468/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yanmega', 'url': 'https://pokeapi.co/api/v2/pokemon/469/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'leafeon', 'url': 'https://pokeapi.co/api/v2/pokemon/470/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'glaceon', 'url': 'https://pokeapi.co/api/v2/pokemon/471/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gliscor', 'url': 'https://pokeapi.co/api/v2/pokemon/472/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mamoswine', 'url': 'https://pokeapi.co/api/v2/pokemon/473/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'porygon-z', 'url': 'https://pokeapi.co/api/v2/pokemon/474/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gallade', 'url': 'https://pokeapi.co/api/v2/pokemon/475/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'probopass', 'url': 'https://pokeapi.co/api/v2/pokemon/476/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dusknoir', 'url': 'https://pokeapi.co/api/v2/pokemon/477/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'froslass', 'url': 'https://pokeapi.co/api/v2/pokemon/478/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom', 'url': 'https://pokeapi.co/api/v2/pokemon/479/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'uxie', 'url': 'https://pokeapi.co/api/v2/pokemon/480/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mesprit', 'url': 'https://pokeapi.co/api/v2/pokemon/481/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'azelf', 'url': 'https://pokeapi.co/api/v2/pokemon/482/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dialga', 'url': 'https://pokeapi.co/api/v2/pokemon/483/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'palkia', 'url': 'https://pokeapi.co/api/v2/pokemon/484/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'heatran', 'url': 'https://pokeapi.co/api/v2/pokemon/485/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'regigigas', 'url': 'https://pokeapi.co/api/v2/pokemon/486/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'giratina-altered', 'url': 'https://pokeapi.co/api/v2/pokemon/487/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cresselia', 'url': 'https://pokeapi.co/api/v2/pokemon/488/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'phione', 'url': 'https://pokeapi.co/api/v2/pokemon/489/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'manaphy', 'url': 'https://pokeapi.co/api/v2/pokemon/490/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'darkrai', 'url': 'https://pokeapi.co/api/v2/pokemon/491/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shaymin-land', 'url': 'https://pokeapi.co/api/v2/pokemon/492/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arceus', 'url': 'https://pokeapi.co/api/v2/pokemon/493/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'victini', 'url': 'https://pokeapi.co/api/v2/pokemon/494/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snivy', 'url': 'https://pokeapi.co/api/v2/pokemon/495/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'servine', 'url': 'https://pokeapi.co/api/v2/pokemon/496/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'serperior', 'url': 'https://pokeapi.co/api/v2/pokemon/497/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tepig', 'url': 'https://pokeapi.co/api/v2/pokemon/498/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pignite', 'url': 'https://pokeapi.co/api/v2/pokemon/499/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'emboar', 'url': 'https://pokeapi.co/api/v2/pokemon/500/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'oshawott', 'url': 'https://pokeapi.co/api/v2/pokemon/501/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dewott', 'url': 'https://pokeapi.co/api/v2/pokemon/502/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'samurott', 'url': 'https://pokeapi.co/api/v2/pokemon/503/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'patrat', 'url': 'https://pokeapi.co/api/v2/pokemon/504/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'watchog', 'url': 'https://pokeapi.co/api/v2/pokemon/505/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lillipup', 'url': 'https://pokeapi.co/api/v2/pokemon/506/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'herdier', 'url': 'https://pokeapi.co/api/v2/pokemon/507/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stoutland', 'url': 'https://pokeapi.co/api/v2/pokemon/508/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'purrloin', 'url': 'https://pokeapi.co/api/v2/pokemon/509/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'liepard', 'url': 'https://pokeapi.co/api/v2/pokemon/510/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pansage', 'url': 'https://pokeapi.co/api/v2/pokemon/511/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'simisage', 'url': 'https://pokeapi.co/api/v2/pokemon/512/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pansear', 'url': 'https://pokeapi.co/api/v2/pokemon/513/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'simisear', 'url': 'https://pokeapi.co/api/v2/pokemon/514/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'panpour', 'url': 'https://pokeapi.co/api/v2/pokemon/515/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'simipour', 'url': 'https://pokeapi.co/api/v2/pokemon/516/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'munna', 'url': 'https://pokeapi.co/api/v2/pokemon/517/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'musharna', 'url': 'https://pokeapi.co/api/v2/pokemon/518/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pidove', 'url': 'https://pokeapi.co/api/v2/pokemon/519/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tranquill', 'url': 'https://pokeapi.co/api/v2/pokemon/520/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'unfezant', 'url': 'https://pokeapi.co/api/v2/pokemon/521/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blitzle', 'url': 'https://pokeapi.co/api/v2/pokemon/522/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zebstrika', 'url': 'https://pokeapi.co/api/v2/pokemon/523/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'roggenrola', 'url': 'https://pokeapi.co/api/v2/pokemon/524/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'boldore', 'url': 'https://pokeapi.co/api/v2/pokemon/525/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gigalith', 'url': 'https://pokeapi.co/api/v2/pokemon/526/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'woobat', 'url': 'https://pokeapi.co/api/v2/pokemon/527/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swoobat', 'url': 'https://pokeapi.co/api/v2/pokemon/528/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drilbur', 'url': 'https://pokeapi.co/api/v2/pokemon/529/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'excadrill', 'url': 'https://pokeapi.co/api/v2/pokemon/530/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'audino', 'url': 'https://pokeapi.co/api/v2/pokemon/531/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'timburr', 'url': 'https://pokeapi.co/api/v2/pokemon/532/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gurdurr', 'url': 'https://pokeapi.co/api/v2/pokemon/533/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'conkeldurr', 'url': 'https://pokeapi.co/api/v2/pokemon/534/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tympole', 'url': 'https://pokeapi.co/api/v2/pokemon/535/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'palpitoad', 'url': 'https://pokeapi.co/api/v2/pokemon/536/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'seismitoad', 'url': 'https://pokeapi.co/api/v2/pokemon/537/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'throh', 'url': 'https://pokeapi.co/api/v2/pokemon/538/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sawk', 'url': 'https://pokeapi.co/api/v2/pokemon/539/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sewaddle', 'url': 'https://pokeapi.co/api/v2/pokemon/540/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swadloon', 'url': 'https://pokeapi.co/api/v2/pokemon/541/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'leavanny', 'url': 'https://pokeapi.co/api/v2/pokemon/542/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'venipede', 'url': 'https://pokeapi.co/api/v2/pokemon/543/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'whirlipede', 'url': 'https://pokeapi.co/api/v2/pokemon/544/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scolipede', 'url': 'https://pokeapi.co/api/v2/pokemon/545/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cottonee', 'url': 'https://pokeapi.co/api/v2/pokemon/546/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'whimsicott', 'url': 'https://pokeapi.co/api/v2/pokemon/547/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'petilil', 'url': 'https://pokeapi.co/api/v2/pokemon/548/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lilligant', 'url': 'https://pokeapi.co/api/v2/pokemon/549/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'basculin-red-striped', 'url': 'https://pokeapi.co/api/v2/pokemon/550/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sandile', 'url': 'https://pokeapi.co/api/v2/pokemon/551/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'krokorok', 'url': 'https://pokeapi.co/api/v2/pokemon/552/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'krookodile', 'url': 'https://pokeapi.co/api/v2/pokemon/553/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'darumaka', 'url': 'https://pokeapi.co/api/v2/pokemon/554/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'darmanitan-standard', 'url': 'https://pokeapi.co/api/v2/pokemon/555/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'maractus', 'url': 'https://pokeapi.co/api/v2/pokemon/556/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dwebble', 'url': 'https://pokeapi.co/api/v2/pokemon/557/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'crustle', 'url': 'https://pokeapi.co/api/v2/pokemon/558/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scraggy', 'url': 'https://pokeapi.co/api/v2/pokemon/559/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scrafty', 'url': 'https://pokeapi.co/api/v2/pokemon/560/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sigilyph', 'url': 'https://pokeapi.co/api/v2/pokemon/561/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yamask', 'url': 'https://pokeapi.co/api/v2/pokemon/562/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cofagrigus', 'url': 'https://pokeapi.co/api/v2/pokemon/563/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tirtouga', 'url': 'https://pokeapi.co/api/v2/pokemon/564/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'carracosta', 'url': 'https://pokeapi.co/api/v2/pokemon/565/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'archen', 'url': 'https://pokeapi.co/api/v2/pokemon/566/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'archeops', 'url': 'https://pokeapi.co/api/v2/pokemon/567/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'trubbish', 'url': 'https://pokeapi.co/api/v2/pokemon/568/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'garbodor', 'url': 'https://pokeapi.co/api/v2/pokemon/569/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zorua', 'url': 'https://pokeapi.co/api/v2/pokemon/570/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zoroark', 'url': 'https://pokeapi.co/api/v2/pokemon/571/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'minccino', 'url': 'https://pokeapi.co/api/v2/pokemon/572/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cinccino', 'url': 'https://pokeapi.co/api/v2/pokemon/573/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gothita', 'url': 'https://pokeapi.co/api/v2/pokemon/574/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gothorita', 'url': 'https://pokeapi.co/api/v2/pokemon/575/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gothitelle', 'url': 'https://pokeapi.co/api/v2/pokemon/576/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'solosis', 'url': 'https://pokeapi.co/api/v2/pokemon/577/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'duosion', 'url': 'https://pokeapi.co/api/v2/pokemon/578/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'reuniclus', 'url': 'https://pokeapi.co/api/v2/pokemon/579/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ducklett', 'url': 'https://pokeapi.co/api/v2/pokemon/580/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swanna', 'url': 'https://pokeapi.co/api/v2/pokemon/581/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vanillite', 'url': 'https://pokeapi.co/api/v2/pokemon/582/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vanillish', 'url': 'https://pokeapi.co/api/v2/pokemon/583/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vanilluxe', 'url': 'https://pokeapi.co/api/v2/pokemon/584/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deerling', 'url': 'https://pokeapi.co/api/v2/pokemon/585/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sawsbuck', 'url': 'https://pokeapi.co/api/v2/pokemon/586/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'emolga', 'url': 'https://pokeapi.co/api/v2/pokemon/587/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'karrablast', 'url': 'https://pokeapi.co/api/v2/pokemon/588/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'escavalier', 'url': 'https://pokeapi.co/api/v2/pokemon/589/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'foongus', 'url': 'https://pokeapi.co/api/v2/pokemon/590/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'amoonguss', 'url': 'https://pokeapi.co/api/v2/pokemon/591/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'frillish', 'url': 'https://pokeapi.co/api/v2/pokemon/592/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jellicent', 'url': 'https://pokeapi.co/api/v2/pokemon/593/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'alomomola', 'url': 'https://pokeapi.co/api/v2/pokemon/594/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'joltik', 'url': 'https://pokeapi.co/api/v2/pokemon/595/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'galvantula', 'url': 'https://pokeapi.co/api/v2/pokemon/596/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ferroseed', 'url': 'https://pokeapi.co/api/v2/pokemon/597/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ferrothorn', 'url': 'https://pokeapi.co/api/v2/pokemon/598/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'klink', 'url': 'https://pokeapi.co/api/v2/pokemon/599/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'klang', 'url': 'https://pokeapi.co/api/v2/pokemon/600/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'klinklang', 'url': 'https://pokeapi.co/api/v2/pokemon/601/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tynamo', 'url': 'https://pokeapi.co/api/v2/pokemon/602/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eelektrik', 'url': 'https://pokeapi.co/api/v2/pokemon/603/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eelektross', 'url': 'https://pokeapi.co/api/v2/pokemon/604/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'elgyem', 'url': 'https://pokeapi.co/api/v2/pokemon/605/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beheeyem', 'url': 'https://pokeapi.co/api/v2/pokemon/606/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'litwick', 'url': 'https://pokeapi.co/api/v2/pokemon/607/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lampent', 'url': 'https://pokeapi.co/api/v2/pokemon/608/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chandelure', 'url': 'https://pokeapi.co/api/v2/pokemon/609/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'axew', 'url': 'https://pokeapi.co/api/v2/pokemon/610/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fraxure', 'url': 'https://pokeapi.co/api/v2/pokemon/611/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'haxorus', 'url': 'https://pokeapi.co/api/v2/pokemon/612/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cubchoo', 'url': 'https://pokeapi.co/api/v2/pokemon/613/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beartic', 'url': 'https://pokeapi.co/api/v2/pokemon/614/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cryogonal', 'url': 'https://pokeapi.co/api/v2/pokemon/615/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shelmet', 'url': 'https://pokeapi.co/api/v2/pokemon/616/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'accelgor', 'url': 'https://pokeapi.co/api/v2/pokemon/617/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stunfisk', 'url': 'https://pokeapi.co/api/v2/pokemon/618/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mienfoo', 'url': 'https://pokeapi.co/api/v2/pokemon/619/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mienshao', 'url': 'https://pokeapi.co/api/v2/pokemon/620/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'druddigon', 'url': 'https://pokeapi.co/api/v2/pokemon/621/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golett', 'url': 'https://pokeapi.co/api/v2/pokemon/622/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golurk', 'url': 'https://pokeapi.co/api/v2/pokemon/623/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pawniard', 'url': 'https://pokeapi.co/api/v2/pokemon/624/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bisharp', 'url': 'https://pokeapi.co/api/v2/pokemon/625/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bouffalant', 'url': 'https://pokeapi.co/api/v2/pokemon/626/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rufflet', 'url': 'https://pokeapi.co/api/v2/pokemon/627/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'braviary', 'url': 'https://pokeapi.co/api/v2/pokemon/628/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vullaby', 'url': 'https://pokeapi.co/api/v2/pokemon/629/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mandibuzz', 'url': 'https://pokeapi.co/api/v2/pokemon/630/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'heatmor', 'url': 'https://pokeapi.co/api/v2/pokemon/631/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'durant', 'url': 'https://pokeapi.co/api/v2/pokemon/632/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deino', 'url': 'https://pokeapi.co/api/v2/pokemon/633/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zweilous', 'url': 'https://pokeapi.co/api/v2/pokemon/634/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hydreigon', 'url': 'https://pokeapi.co/api/v2/pokemon/635/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'larvesta', 'url': 'https://pokeapi.co/api/v2/pokemon/636/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'volcarona', 'url': 'https://pokeapi.co/api/v2/pokemon/637/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cobalion', 'url': 'https://pokeapi.co/api/v2/pokemon/638/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'terrakion', 'url': 'https://pokeapi.co/api/v2/pokemon/639/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'virizion', 'url': 'https://pokeapi.co/api/v2/pokemon/640/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tornadus-incarnate', 'url': 'https://pokeapi.co/api/v2/pokemon/641/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'thundurus-incarnate', 'url': 'https://pokeapi.co/api/v2/pokemon/642/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'reshiram', 'url': 'https://pokeapi.co/api/v2/pokemon/643/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zekrom', 'url': 'https://pokeapi.co/api/v2/pokemon/644/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'landorus-incarnate', 'url': 'https://pokeapi.co/api/v2/pokemon/645/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kyurem', 'url': 'https://pokeapi.co/api/v2/pokemon/646/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'keldeo-ordinary', 'url': 'https://pokeapi.co/api/v2/pokemon/647/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meloetta-aria', 'url': 'https://pokeapi.co/api/v2/pokemon/648/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'genesect', 'url': 'https://pokeapi.co/api/v2/pokemon/649/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chespin', 'url': 'https://pokeapi.co/api/v2/pokemon/650/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'quilladin', 'url': 'https://pokeapi.co/api/v2/pokemon/651/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chesnaught', 'url': 'https://pokeapi.co/api/v2/pokemon/652/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fennekin', 'url': 'https://pokeapi.co/api/v2/pokemon/653/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'braixen', 'url': 'https://pokeapi.co/api/v2/pokemon/654/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'delphox', 'url': 'https://pokeapi.co/api/v2/pokemon/655/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'froakie', 'url': 'https://pokeapi.co/api/v2/pokemon/656/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'frogadier', 'url': 'https://pokeapi.co/api/v2/pokemon/657/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'greninja', 'url': 'https://pokeapi.co/api/v2/pokemon/658/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bunnelby', 'url': 'https://pokeapi.co/api/v2/pokemon/659/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'diggersby', 'url': 'https://pokeapi.co/api/v2/pokemon/660/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fletchling', 'url': 'https://pokeapi.co/api/v2/pokemon/661/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fletchinder', 'url': 'https://pokeapi.co/api/v2/pokemon/662/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'talonflame', 'url': 'https://pokeapi.co/api/v2/pokemon/663/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scatterbug', 'url': 'https://pokeapi.co/api/v2/pokemon/664/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spewpa', 'url': 'https://pokeapi.co/api/v2/pokemon/665/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vivillon', 'url': 'https://pokeapi.co/api/v2/pokemon/666/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'litleo', 'url': 'https://pokeapi.co/api/v2/pokemon/667/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pyroar', 'url': 'https://pokeapi.co/api/v2/pokemon/668/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'flabebe', 'url': 'https://pokeapi.co/api/v2/pokemon/669/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'floette', 'url': 'https://pokeapi.co/api/v2/pokemon/670/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'florges', 'url': 'https://pokeapi.co/api/v2/pokemon/671/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skiddo', 'url': 'https://pokeapi.co/api/v2/pokemon/672/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gogoat', 'url': 'https://pokeapi.co/api/v2/pokemon/673/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pancham', 'url': 'https://pokeapi.co/api/v2/pokemon/674/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pangoro', 'url': 'https://pokeapi.co/api/v2/pokemon/675/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'furfrou', 'url': 'https://pokeapi.co/api/v2/pokemon/676/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'espurr', 'url': 'https://pokeapi.co/api/v2/pokemon/677/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meowstic-male', 'url': 'https://pokeapi.co/api/v2/pokemon/678/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'honedge', 'url': 'https://pokeapi.co/api/v2/pokemon/679/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'doublade', 'url': 'https://pokeapi.co/api/v2/pokemon/680/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aegislash-shield', 'url': 'https://pokeapi.co/api/v2/pokemon/681/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spritzee', 'url': 'https://pokeapi.co/api/v2/pokemon/682/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aromatisse', 'url': 'https://pokeapi.co/api/v2/pokemon/683/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swirlix', 'url': 'https://pokeapi.co/api/v2/pokemon/684/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slurpuff', 'url': 'https://pokeapi.co/api/v2/pokemon/685/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'inkay', 'url': 'https://pokeapi.co/api/v2/pokemon/686/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'malamar', 'url': 'https://pokeapi.co/api/v2/pokemon/687/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'binacle', 'url': 'https://pokeapi.co/api/v2/pokemon/688/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'barbaracle', 'url': 'https://pokeapi.co/api/v2/pokemon/689/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skrelp', 'url': 'https://pokeapi.co/api/v2/pokemon/690/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dragalge', 'url': 'https://pokeapi.co/api/v2/pokemon/691/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clauncher', 'url': 'https://pokeapi.co/api/v2/pokemon/692/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clawitzer', 'url': 'https://pokeapi.co/api/v2/pokemon/693/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'helioptile', 'url': 'https://pokeapi.co/api/v2/pokemon/694/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'heliolisk', 'url': 'https://pokeapi.co/api/v2/pokemon/695/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tyrunt', 'url': 'https://pokeapi.co/api/v2/pokemon/696/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tyrantrum', 'url': 'https://pokeapi.co/api/v2/pokemon/697/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'amaura', 'url': 'https://pokeapi.co/api/v2/pokemon/698/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aurorus', 'url': 'https://pokeapi.co/api/v2/pokemon/699/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sylveon', 'url': 'https://pokeapi.co/api/v2/pokemon/700/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hawlucha', 'url': 'https://pokeapi.co/api/v2/pokemon/701/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dedenne', 'url': 'https://pokeapi.co/api/v2/pokemon/702/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'carbink', 'url': 'https://pokeapi.co/api/v2/pokemon/703/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'goomy', 'url': 'https://pokeapi.co/api/v2/pokemon/704/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sliggoo', 'url': 'https://pokeapi.co/api/v2/pokemon/705/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'goodra', 'url': 'https://pokeapi.co/api/v2/pokemon/706/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'klefki', 'url': 'https://pokeapi.co/api/v2/pokemon/707/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'phantump', 'url': 'https://pokeapi.co/api/v2/pokemon/708/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'trevenant', 'url': 'https://pokeapi.co/api/v2/pokemon/709/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pumpkaboo-average', 'url': 'https://pokeapi.co/api/v2/pokemon/710/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gourgeist-average', 'url': 'https://pokeapi.co/api/v2/pokemon/711/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bergmite', 'url': 'https://pokeapi.co/api/v2/pokemon/712/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'avalugg', 'url': 'https://pokeapi.co/api/v2/pokemon/713/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'noibat', 'url': 'https://pokeapi.co/api/v2/pokemon/714/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'noivern', 'url': 'https://pokeapi.co/api/v2/pokemon/715/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'xerneas', 'url': 'https://pokeapi.co/api/v2/pokemon/716/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yveltal', 'url': 'https://pokeapi.co/api/v2/pokemon/717/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zygarde-50', 'url': 'https://pokeapi.co/api/v2/pokemon/718/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'diancie', 'url': 'https://pokeapi.co/api/v2/pokemon/719/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hoopa', 'url': 'https://pokeapi.co/api/v2/pokemon/720/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'volcanion', 'url': 'https://pokeapi.co/api/v2/pokemon/721/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rowlet', 'url': 'https://pokeapi.co/api/v2/pokemon/722/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dartrix', 'url': 'https://pokeapi.co/api/v2/pokemon/723/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'decidueye', 'url': 'https://pokeapi.co/api/v2/pokemon/724/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'litten', 'url': 'https://pokeapi.co/api/v2/pokemon/725/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'torracat', 'url': 'https://pokeapi.co/api/v2/pokemon/726/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'incineroar', 'url': 'https://pokeapi.co/api/v2/pokemon/727/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'popplio', 'url': 'https://pokeapi.co/api/v2/pokemon/728/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'brionne', 'url': 'https://pokeapi.co/api/v2/pokemon/729/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'primarina', 'url': 'https://pokeapi.co/api/v2/pokemon/730/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikipek', 'url': 'https://pokeapi.co/api/v2/pokemon/731/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'trumbeak', 'url': 'https://pokeapi.co/api/v2/pokemon/732/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'toucannon', 'url': 'https://pokeapi.co/api/v2/pokemon/733/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yungoos', 'url': 'https://pokeapi.co/api/v2/pokemon/734/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gumshoos', 'url': 'https://pokeapi.co/api/v2/pokemon/735/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grubbin', 'url': 'https://pokeapi.co/api/v2/pokemon/736/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charjabug', 'url': 'https://pokeapi.co/api/v2/pokemon/737/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'vikavolt', 'url': 'https://pokeapi.co/api/v2/pokemon/738/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'crabrawler', 'url': 'https://pokeapi.co/api/v2/pokemon/739/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'crabominable', 'url': 'https://pokeapi.co/api/v2/pokemon/740/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'oricorio-baile', 'url': 'https://pokeapi.co/api/v2/pokemon/741/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cutiefly', 'url': 'https://pokeapi.co/api/v2/pokemon/742/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ribombee', 'url': 'https://pokeapi.co/api/v2/pokemon/743/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rockruff', 'url': 'https://pokeapi.co/api/v2/pokemon/744/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lycanroc-midday', 'url': 'https://pokeapi.co/api/v2/pokemon/745/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wishiwashi-solo', 'url': 'https://pokeapi.co/api/v2/pokemon/746/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mareanie', 'url': 'https://pokeapi.co/api/v2/pokemon/747/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'toxapex', 'url': 'https://pokeapi.co/api/v2/pokemon/748/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mudbray', 'url': 'https://pokeapi.co/api/v2/pokemon/749/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mudsdale', 'url': 'https://pokeapi.co/api/v2/pokemon/750/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dewpider', 'url': 'https://pokeapi.co/api/v2/pokemon/751/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'araquanid', 'url': 'https://pokeapi.co/api/v2/pokemon/752/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'fomantis', 'url': 'https://pokeapi.co/api/v2/pokemon/753/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lurantis', 'url': 'https://pokeapi.co/api/v2/pokemon/754/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'morelull', 'url': 'https://pokeapi.co/api/v2/pokemon/755/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shiinotic', 'url': 'https://pokeapi.co/api/v2/pokemon/756/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'salandit', 'url': 'https://pokeapi.co/api/v2/pokemon/757/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'salazzle', 'url': 'https://pokeapi.co/api/v2/pokemon/758/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stufful', 'url': 'https://pokeapi.co/api/v2/pokemon/759/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bewear', 'url': 'https://pokeapi.co/api/v2/pokemon/760/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bounsweet', 'url': 'https://pokeapi.co/api/v2/pokemon/761/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'steenee', 'url': 'https://pokeapi.co/api/v2/pokemon/762/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tsareena', 'url': 'https://pokeapi.co/api/v2/pokemon/763/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'comfey', 'url': 'https://pokeapi.co/api/v2/pokemon/764/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'oranguru', 'url': 'https://pokeapi.co/api/v2/pokemon/765/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'passimian', 'url': 'https://pokeapi.co/api/v2/pokemon/766/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wimpod', 'url': 'https://pokeapi.co/api/v2/pokemon/767/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'golisopod', 'url': 'https://pokeapi.co/api/v2/pokemon/768/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sandygast', 'url': 'https://pokeapi.co/api/v2/pokemon/769/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'palossand', 'url': 'https://pokeapi.co/api/v2/pokemon/770/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pyukumuku', 'url': 'https://pokeapi.co/api/v2/pokemon/771/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'type-null', 'url': 'https://pokeapi.co/api/v2/pokemon/772/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'silvally', 'url': 'https://pokeapi.co/api/v2/pokemon/773/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'minior-red-meteor', 'url': 'https://pokeapi.co/api/v2/pokemon/774/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'komala', 'url': 'https://pokeapi.co/api/v2/pokemon/775/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'turtonator', 'url': 'https://pokeapi.co/api/v2/pokemon/776/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'togedemaru', 'url': 'https://pokeapi.co/api/v2/pokemon/777/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mimikyu-disguised', 'url': 'https://pokeapi.co/api/v2/pokemon/778/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'bruxish', 'url': 'https://pokeapi.co/api/v2/pokemon/779/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drampa', 'url': 'https://pokeapi.co/api/v2/pokemon/780/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dhelmise', 'url': 'https://pokeapi.co/api/v2/pokemon/781/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'jangmo-o', 'url': 'https://pokeapi.co/api/v2/pokemon/782/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hakamo-o', 'url': 'https://pokeapi.co/api/v2/pokemon/783/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kommo-o', 'url': 'https://pokeapi.co/api/v2/pokemon/784/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tapu-koko', 'url': 'https://pokeapi.co/api/v2/pokemon/785/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tapu-lele', 'url': 'https://pokeapi.co/api/v2/pokemon/786/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tapu-bulu', 'url': 'https://pokeapi.co/api/v2/pokemon/787/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tapu-fini', 'url': 'https://pokeapi.co/api/v2/pokemon/788/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cosmog', 'url': 'https://pokeapi.co/api/v2/pokemon/789/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cosmoem', 'url': 'https://pokeapi.co/api/v2/pokemon/790/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'solgaleo', 'url': 'https://pokeapi.co/api/v2/pokemon/791/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lunala', 'url': 'https://pokeapi.co/api/v2/pokemon/792/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nihilego', 'url': 'https://pokeapi.co/api/v2/pokemon/793/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'buzzwole', 'url': 'https://pokeapi.co/api/v2/pokemon/794/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pheromosa', 'url': 'https://pokeapi.co/api/v2/pokemon/795/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'xurkitree', 'url': 'https://pokeapi.co/api/v2/pokemon/796/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'celesteela', 'url': 'https://pokeapi.co/api/v2/pokemon/797/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kartana', 'url': 'https://pokeapi.co/api/v2/pokemon/798/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'guzzlord', 'url': 'https://pokeapi.co/api/v2/pokemon/799/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'necrozma', 'url': 'https://pokeapi.co/api/v2/pokemon/800/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'magearna', 'url': 'https://pokeapi.co/api/v2/pokemon/801/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'marshadow', 'url': 'https://pokeapi.co/api/v2/pokemon/802/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'poipole', 'url': 'https://pokeapi.co/api/v2/pokemon/803/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'naganadel', 'url': 'https://pokeapi.co/api/v2/pokemon/804/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stakataka', 'url': 'https://pokeapi.co/api/v2/pokemon/805/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blacephalon', 'url': 'https://pokeapi.co/api/v2/pokemon/806/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zeraora', 'url': 'https://pokeapi.co/api/v2/pokemon/807/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meltan', 'url': 'https://pokeapi.co/api/v2/pokemon/808/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'melmetal', 'url': 'https://pokeapi.co/api/v2/pokemon/809/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grookey', 'url': 'https://pokeapi.co/api/v2/pokemon/810/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'thwackey', 'url': 'https://pokeapi.co/api/v2/pokemon/811/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rillaboom', 'url': 'https://pokeapi.co/api/v2/pokemon/812/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scorbunny', 'url': 'https://pokeapi.co/api/v2/pokemon/813/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raboot', 'url': 'https://pokeapi.co/api/v2/pokemon/814/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cinderace', 'url': 'https://pokeapi.co/api/v2/pokemon/815/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sobble', 'url': 'https://pokeapi.co/api/v2/pokemon/816/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drizzile', 'url': 'https://pokeapi.co/api/v2/pokemon/817/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'inteleon', 'url': 'https://pokeapi.co/api/v2/pokemon/818/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'skwovet', 'url': 'https://pokeapi.co/api/v2/pokemon/819/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'greedent', 'url': 'https://pokeapi.co/api/v2/pokemon/820/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rookidee', 'url': 'https://pokeapi.co/api/v2/pokemon/821/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'corvisquire', 'url': 'https://pokeapi.co/api/v2/pokemon/822/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'corviknight', 'url': 'https://pokeapi.co/api/v2/pokemon/823/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blipbug', 'url': 'https://pokeapi.co/api/v2/pokemon/824/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dottler', 'url': 'https://pokeapi.co/api/v2/pokemon/825/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'orbeetle', 'url': 'https://pokeapi.co/api/v2/pokemon/826/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'nickit', 'url': 'https://pokeapi.co/api/v2/pokemon/827/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'thievul', 'url': 'https://pokeapi.co/api/v2/pokemon/828/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gossifleur', 'url': 'https://pokeapi.co/api/v2/pokemon/829/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eldegoss', 'url': 'https://pokeapi.co/api/v2/pokemon/830/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wooloo', 'url': 'https://pokeapi.co/api/v2/pokemon/831/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dubwool', 'url': 'https://pokeapi.co/api/v2/pokemon/832/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'chewtle', 'url': 'https://pokeapi.co/api/v2/pokemon/833/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drednaw', 'url': 'https://pokeapi.co/api/v2/pokemon/834/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'yamper', 'url': 'https://pokeapi.co/api/v2/pokemon/835/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'boltund', 'url': 'https://pokeapi.co/api/v2/pokemon/836/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rolycoly', 'url': 'https://pokeapi.co/api/v2/pokemon/837/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'carkol', 'url': 'https://pokeapi.co/api/v2/pokemon/838/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'coalossal', 'url': 'https://pokeapi.co/api/v2/pokemon/839/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'applin', 'url': 'https://pokeapi.co/api/v2/pokemon/840/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'flapple', 'url': 'https://pokeapi.co/api/v2/pokemon/841/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'appletun', 'url': 'https://pokeapi.co/api/v2/pokemon/842/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'silicobra', 'url': 'https://pokeapi.co/api/v2/pokemon/843/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sandaconda', 'url': 'https://pokeapi.co/api/v2/pokemon/844/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cramorant', 'url': 'https://pokeapi.co/api/v2/pokemon/845/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arrokuda', 'url': 'https://pokeapi.co/api/v2/pokemon/846/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'barraskewda', 'url': 'https://pokeapi.co/api/v2/pokemon/847/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'toxel', 'url': 'https://pokeapi.co/api/v2/pokemon/848/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'toxtricity-amped', 'url': 'https://pokeapi.co/api/v2/pokemon/849/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sizzlipede', 'url': 'https://pokeapi.co/api/v2/pokemon/850/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'centiskorch', 'url': 'https://pokeapi.co/api/v2/pokemon/851/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'clobbopus', 'url': 'https://pokeapi.co/api/v2/pokemon/852/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grapploct', 'url': 'https://pokeapi.co/api/v2/pokemon/853/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sinistea', 'url': 'https://pokeapi.co/api/v2/pokemon/854/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'polteageist', 'url': 'https://pokeapi.co/api/v2/pokemon/855/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hatenna', 'url': 'https://pokeapi.co/api/v2/pokemon/856/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hattrem', 'url': 'https://pokeapi.co/api/v2/pokemon/857/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hatterene', 'url': 'https://pokeapi.co/api/v2/pokemon/858/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'impidimp', 'url': 'https://pokeapi.co/api/v2/pokemon/859/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'morgrem', 'url': 'https://pokeapi.co/api/v2/pokemon/860/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'grimmsnarl', 'url': 'https://pokeapi.co/api/v2/pokemon/861/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'obstagoon', 'url': 'https://pokeapi.co/api/v2/pokemon/862/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'perrserker', 'url': 'https://pokeapi.co/api/v2/pokemon/863/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cursola', 'url': 'https://pokeapi.co/api/v2/pokemon/864/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sirfetchd', 'url': 'https://pokeapi.co/api/v2/pokemon/865/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mr-rime', 'url': 'https://pokeapi.co/api/v2/pokemon/866/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'runerigus', 'url': 'https://pokeapi.co/api/v2/pokemon/867/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'milcery', 'url': 'https://pokeapi.co/api/v2/pokemon/868/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'alcremie', 'url': 'https://pokeapi.co/api/v2/pokemon/869/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'falinks', 'url': 'https://pokeapi.co/api/v2/pokemon/870/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pincurchin', 'url': 'https://pokeapi.co/api/v2/pokemon/871/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'snom', 'url': 'https://pokeapi.co/api/v2/pokemon/872/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'frosmoth', 'url': 'https://pokeapi.co/api/v2/pokemon/873/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'stonjourner', 'url': 'https://pokeapi.co/api/v2/pokemon/874/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eiscue-ice', 'url': 'https://pokeapi.co/api/v2/pokemon/875/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'indeedee-male', 'url': 'https://pokeapi.co/api/v2/pokemon/876/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'morpeko-full-belly', 'url': 'https://pokeapi.co/api/v2/pokemon/877/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'cufant', 'url': 'https://pokeapi.co/api/v2/pokemon/878/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'copperajah', 'url': 'https://pokeapi.co/api/v2/pokemon/879/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dracozolt', 'url': 'https://pokeapi.co/api/v2/pokemon/880/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arctozolt', 'url': 'https://pokeapi.co/api/v2/pokemon/881/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dracovish', 'url': 'https://pokeapi.co/api/v2/pokemon/882/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'arctovish', 'url': 'https://pokeapi.co/api/v2/pokemon/883/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'duraludon', 'url': 'https://pokeapi.co/api/v2/pokemon/884/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dreepy', 'url': 'https://pokeapi.co/api/v2/pokemon/885/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'drakloak', 'url': 'https://pokeapi.co/api/v2/pokemon/886/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'dragapult', 'url': 'https://pokeapi.co/api/v2/pokemon/887/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zacian', 'url': 'https://pokeapi.co/api/v2/pokemon/888/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zamazenta', 'url': 'https://pokeapi.co/api/v2/pokemon/889/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'eternatus', 'url': 'https://pokeapi.co/api/v2/pokemon/890/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kubfu', 'url': 'https://pokeapi.co/api/v2/pokemon/891/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'urshifu-single-strike', 'url': 'https://pokeapi.co/api/v2/pokemon/892/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'zarude', 'url': 'https://pokeapi.co/api/v2/pokemon/893/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'regieleki', 'url': 'https://pokeapi.co/api/v2/pokemon/894/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'regidrago', 'url': 'https://pokeapi.co/api/v2/pokemon/895/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'glastrier', 'url': 'https://pokeapi.co/api/v2/pokemon/896/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'spectrier', 'url': 'https://pokeapi.co/api/v2/pokemon/897/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'calyrex', 'url': 'https://pokeapi.co/api/v2/pokemon/898/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wyrdeer', 'url': 'https://pokeapi.co/api/v2/pokemon/899/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kleavor', 'url': 'https://pokeapi.co/api/v2/pokemon/900/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ursaluna', 'url': 'https://pokeapi.co/api/v2/pokemon/901/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'basculegion-male', 'url': 'https://pokeapi.co/api/v2/pokemon/902/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sneasler', 'url': 'https://pokeapi.co/api/v2/pokemon/903/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'overqwil', 'url': 'https://pokeapi.co/api/v2/pokemon/904/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'enamorus-incarnate', 'url': 'https://pokeapi.co/api/v2/pokemon/905/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deoxys-attack', 'url': 'https://pokeapi.co/api/v2/pokemon/10001/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deoxys-defense', 'url': 'https://pokeapi.co/api/v2/pokemon/10002/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'deoxys-speed', 'url': 'https://pokeapi.co/api/v2/pokemon/10003/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wormadam-sandy', 'url': 'https://pokeapi.co/api/v2/pokemon/10004/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'wormadam-trash', 'url': 'https://pokeapi.co/api/v2/pokemon/10005/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'shaymin-sky', 'url': 'https://pokeapi.co/api/v2/pokemon/10006/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'giratina-origin', 'url': 'https://pokeapi.co/api/v2/pokemon/10007/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom-heat', 'url': 'https://pokeapi.co/api/v2/pokemon/10008/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom-wash', 'url': 'https://pokeapi.co/api/v2/pokemon/10009/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom-frost', 'url': 'https://pokeapi.co/api/v2/pokemon/10010/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom-fan', 'url': 'https://pokeapi.co/api/v2/pokemon/10011/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rotom-mow', 'url': 'https://pokeapi.co/api/v2/pokemon/10012/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'castform-sunny', 'url': 'https://pokeapi.co/api/v2/pokemon/10013/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'castform-rainy', 'url': 'https://pokeapi.co/api/v2/pokemon/10014/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'castform-snowy', 'url': 'https://pokeapi.co/api/v2/pokemon/10015/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'basculin-blue-striped', 'url': 'https://pokeapi.co/api/v2/pokemon/10016/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'darmanitan-zen', 'url': 'https://pokeapi.co/api/v2/pokemon/10017/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meloetta-pirouette', 'url': 'https://pokeapi.co/api/v2/pokemon/10018/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tornadus-therian', 'url': 'https://pokeapi.co/api/v2/pokemon/10019/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'thundurus-therian', 'url': 'https://pokeapi.co/api/v2/pokemon/10020/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'landorus-therian', 'url': 'https://pokeapi.co/api/v2/pokemon/10021/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kyurem-black', 'url': 'https://pokeapi.co/api/v2/pokemon/10022/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kyurem-white', 'url': 'https://pokeapi.co/api/v2/pokemon/10023/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'keldeo-resolute', 'url': 'https://pokeapi.co/api/v2/pokemon/10024/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'meowstic-female', 'url': 'https://pokeapi.co/api/v2/pokemon/10025/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aegislash-blade', 'url': 'https://pokeapi.co/api/v2/pokemon/10026/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pumpkaboo-small', 'url': 'https://pokeapi.co/api/v2/pokemon/10027/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pumpkaboo-large', 'url': 'https://pokeapi.co/api/v2/pokemon/10028/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pumpkaboo-super', 'url': 'https://pokeapi.co/api/v2/pokemon/10029/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gourgeist-small', 'url': 'https://pokeapi.co/api/v2/pokemon/10030/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gourgeist-large', 'url': 'https://pokeapi.co/api/v2/pokemon/10031/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gourgeist-super', 'url': 'https://pokeapi.co/api/v2/pokemon/10032/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'venusaur-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10033/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charizard-mega-x', 'url': 'https://pokeapi.co/api/v2/pokemon/10034/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'charizard-mega-y', 'url': 'https://pokeapi.co/api/v2/pokemon/10035/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blastoise-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10036/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'alakazam-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10037/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gengar-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10038/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kangaskhan-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10039/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pinsir-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10040/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gyarados-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10041/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aerodactyl-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10042/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mewtwo-mega-x', 'url': 'https://pokeapi.co/api/v2/pokemon/10043/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mewtwo-mega-y', 'url': 'https://pokeapi.co/api/v2/pokemon/10044/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'ampharos-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10045/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'scizor-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10046/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'heracross-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10047/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'houndoom-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10048/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'tyranitar-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10049/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'blaziken-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10050/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gardevoir-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10051/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'mawile-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10052/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'aggron-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10053/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'medicham-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10054/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'manectric-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10055/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'banette-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10056/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'absol-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10057/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'garchomp-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10058/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lucario-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10059/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'abomasnow-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10060/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'floette-eternal', 'url': 'https://pokeapi.co/api/v2/pokemon/10061/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'latias-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10062/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'latios-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10063/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'swampert-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10064/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sceptile-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10065/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sableye-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10066/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'altaria-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10067/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'gallade-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10068/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'audino-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10069/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'sharpedo-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10070/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'slowbro-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10071/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'steelix-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10072/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pidgeot-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10073/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'glalie-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10074/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'diancie-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10075/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'metagross-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10076/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'kyogre-primal', 'url': 'https://pokeapi.co/api/v2/pokemon/10077/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'groudon-primal', 'url': 'https://pokeapi.co/api/v2/pokemon/10078/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rayquaza-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10079/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-rock-star', 'url': 'https://pokeapi.co/api/v2/pokemon/10080/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-belle', 'url': 'https://pokeapi.co/api/v2/pokemon/10081/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-pop-star', 'url': 'https://pokeapi.co/api/v2/pokemon/10082/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-phd', 'url': 'https://pokeapi.co/api/v2/pokemon/10083/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-libre', 'url': 'https://pokeapi.co/api/v2/pokemon/10084/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-cosplay', 'url': 'https://pokeapi.co/api/v2/pokemon/10085/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'hoopa-unbound', 'url': 'https://pokeapi.co/api/v2/pokemon/10086/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'camerupt-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10087/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'lopunny-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10088/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'salamence-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10089/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'beedrill-mega', 'url': 'https://pokeapi.co/api/v2/pokemon/10090/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'rattata-alola', 'url': 'https://pokeapi.co/api/v2/pokemon/10091/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raticate-alola', 'url': 'https://pokeapi.co/api/v2/pokemon/10092/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'raticate-totem-alola', 'url': 'https://pokeapi.co/api/v2/pokemon/10093/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-original-cap', 'url': 'https://pokeapi.co/api/v2/pokemon/10094/'}"
-1154,https://pokeapi.co/api/v2/pokemon/?offset=1000&limit=154,,"{'name': 'pikachu-hoenn-cap', 'url': 'https://pokeapi.co/api/v2/pokemon/10095/'}"
+0
+bulbasaur
+ivysaur
+venusaur
+charmander
+charmeleon
+charizard
+squirtle
+wartortle
+blastoise
+caterpie
+metapod
+butterfree
+weedle
+kakuna
+beedrill
+pidgey
+pidgeotto
+pidgeot
+rattata
+raticate
+spearow
+fearow
+ekans
+arbok
+pikachu
+raichu
+sandshrew
+sandslash
+nidoran-f
+nidorina
+nidoqueen
+nidoran-m
+nidorino
+nidoking
+clefairy
+clefable
+vulpix
+ninetales
+jigglypuff
+wigglytuff
+zubat
+golbat
+oddish
+gloom
+vileplume
+paras
+parasect
+venonat
+venomoth
+diglett
+dugtrio
+meowth
+persian
+psyduck
+golduck
+mankey
+primeape
+growlithe
+arcanine
+poliwag
+poliwhirl
+poliwrath
+abra
+kadabra
+alakazam
+machop
+machoke
+machamp
+bellsprout
+weepinbell
+victreebel
+tentacool
+tentacruel
+geodude
+graveler
+golem
+ponyta
+rapidash
+slowpoke
+slowbro
+magnemite
+magneton
+farfetchd
+doduo
+dodrio
+seel
+dewgong
+grimer
+muk
+shellder
+cloyster
+gastly
+haunter
+gengar
+onix
+drowzee
+hypno
+krabby
+kingler
+voltorb
+electrode
+exeggcute
+exeggutor
+cubone
+marowak
+hitmonlee
+hitmonchan
+lickitung
+koffing
+weezing
+rhyhorn
+rhydon
+chansey
+tangela
+kangaskhan
+horsea
+seadra
+goldeen
+seaking
+staryu
+starmie
+mr-mime
+scyther
+jynx
+electabuzz
+magmar
+pinsir
+tauros
+magikarp
+gyarados
+lapras
+ditto
+eevee
+vaporeon
+jolteon
+flareon
+porygon
+omanyte
+omastar
+kabuto
+kabutops
+aerodactyl
+snorlax
+articuno
+zapdos
+moltres
+dratini
+dragonair
+dragonite
+mewtwo
+mew
+chikorita
+bayleef
+meganium
+cyndaquil
+quilava
+typhlosion
+totodile
+croconaw
+feraligatr
+sentret
+furret
+hoothoot
+noctowl
+ledyba
+ledian
+spinarak
+ariados
+crobat
+chinchou
+lanturn
+pichu
+cleffa
+igglybuff
+togepi
+togetic
+natu
+xatu
+mareep
+flaaffy
+ampharos
+bellossom
+marill
+azumarill
+sudowoodo
+politoed
+hoppip
+skiploom
+jumpluff
+aipom
+sunkern
+sunflora
+yanma
+wooper
+quagsire
+espeon
+umbreon
+murkrow
+slowking
+misdreavus
+unown
+wobbuffet
+girafarig
+pineco
+forretress
+dunsparce
+gligar
+steelix
+snubbull
+granbull
+qwilfish
+scizor
+shuckle
+heracross
+sneasel
+teddiursa
+ursaring
+slugma
+magcargo
+swinub
+piloswine
+corsola
+remoraid
+octillery
+delibird
+mantine
+skarmory
+houndour
+houndoom
+kingdra
+phanpy
+donphan
+porygon2
+stantler
+smeargle
+tyrogue
+hitmontop
+smoochum
+elekid
+magby
+miltank
+blissey
+raikou
+entei
+suicune
+larvitar
+pupitar
+tyranitar
+lugia
+ho-oh
+celebi
+treecko
+grovyle
+sceptile
+torchic
+combusken
+blaziken
+mudkip
+marshtomp
+swampert
+poochyena
+mightyena
+zigzagoon
+linoone
+wurmple
+silcoon
+beautifly
+cascoon
+dustox
+lotad
+lombre
+ludicolo
+seedot
+nuzleaf
+shiftry
+taillow
+swellow
+wingull
+pelipper
+ralts
+kirlia
+gardevoir
+surskit
+masquerain
+shroomish
+breloom
+slakoth
+vigoroth
+slaking
+nincada
+ninjask
+shedinja
+whismur
+loudred
+exploud
+makuhita
+hariyama
+azurill
+nosepass
+skitty
+delcatty
+sableye
+mawile
+aron
+lairon
+aggron
+meditite
+medicham
+electrike
+manectric
+plusle
+minun
+volbeat
+illumise
+roselia
+gulpin
+swalot
+carvanha
+sharpedo
+wailmer
+wailord
+numel
+camerupt
+torkoal
+spoink
+grumpig
+spinda
+trapinch
+vibrava
+flygon
+cacnea
+cacturne
+swablu
+altaria
+zangoose
+seviper
+lunatone
+solrock
+barboach
+whiscash
+corphish
+crawdaunt
+baltoy
+claydol
+lileep
+cradily
+anorith
+armaldo
+feebas
+milotic
+castform
+kecleon
+shuppet
+banette
+duskull
+dusclops
+tropius
+chimecho
+absol
+wynaut
+snorunt
+glalie
+spheal
+sealeo
+walrein
+clamperl
+huntail
+gorebyss
+relicanth
+luvdisc
+bagon
+shelgon
+salamence
+beldum
+metang
+metagross
+regirock
+regice
+registeel
+latias
+latios
+kyogre
+groudon
+rayquaza
+jirachi
+deoxys-normal
+turtwig
+grotle
+torterra
+chimchar
+monferno
+infernape
+piplup
+prinplup
+empoleon
+starly
+staravia
+staraptor
+bidoof
+bibarel
+kricketot
+kricketune
+shinx
+luxio
+luxray
+budew
+roserade
+cranidos
+rampardos
+shieldon
+bastiodon
+burmy
+wormadam-plant
+mothim
+combee
+vespiquen
+pachirisu
+buizel
+floatzel
+cherubi
+cherrim
+shellos
+gastrodon
+ambipom
+drifloon
+drifblim
+buneary
+lopunny
+mismagius
+honchkrow
+glameow
+purugly
+chingling
+stunky
+skuntank
+bronzor
+bronzong
+bonsly
+mime-jr
+happiny
+chatot
+spiritomb
+gible
+gabite
+garchomp
+munchlax
+riolu
+lucario
+hippopotas
+hippowdon
+skorupi
+drapion
+croagunk
+toxicroak
+carnivine
+finneon
+lumineon
+mantyke
+snover
+abomasnow
+weavile
+magnezone
+lickilicky
+rhyperior
+tangrowth
+electivire
+magmortar
+togekiss
+yanmega
+leafeon
+glaceon
+gliscor
+mamoswine
+porygon-z
+gallade
+probopass
+dusknoir
+froslass
+rotom
+uxie
+mesprit
+azelf
+dialga
+palkia
+heatran
+regigigas
+giratina-altered
+cresselia
+phione
+manaphy
+darkrai
+shaymin-land
+arceus
+victini
+snivy
+servine
+serperior
+tepig
+pignite
+emboar
+oshawott
+dewott
+samurott
+patrat
+watchog
+lillipup
+herdier
+stoutland
+purrloin
+liepard
+pansage
+simisage
+pansear
+simisear
+panpour
+simipour
+munna
+musharna
+pidove
+tranquill
+unfezant
+blitzle
+zebstrika
+roggenrola
+boldore
+gigalith
+woobat
+swoobat
+drilbur
+excadrill
+audino
+timburr
+gurdurr
+conkeldurr
+tympole
+palpitoad
+seismitoad
+throh
+sawk
+sewaddle
+swadloon
+leavanny
+venipede
+whirlipede
+scolipede
+cottonee
+whimsicott
+petilil
+lilligant
+basculin-red-striped
+sandile
+krokorok
+krookodile
+darumaka
+darmanitan-standard
+maractus
+dwebble
+crustle
+scraggy
+scrafty
+sigilyph
+yamask
+cofagrigus
+tirtouga
+carracosta
+archen
+archeops
+trubbish
+garbodor
+zorua
+zoroark
+minccino
+cinccino
+gothita
+gothorita
+gothitelle
+solosis
+duosion
+reuniclus
+ducklett
+swanna
+vanillite
+vanillish
+vanilluxe
+deerling
+sawsbuck
+emolga
+karrablast
+escavalier
+foongus
+amoonguss
+frillish
+jellicent
+alomomola
+joltik
+galvantula
+ferroseed
+ferrothorn
+klink
+klang
+klinklang
+tynamo
+eelektrik
+eelektross
+elgyem
+beheeyem
+litwick
+lampent
+chandelure
+axew
+fraxure
+haxorus
+cubchoo
+beartic
+cryogonal
+shelmet
+accelgor
+stunfisk
+mienfoo
+mienshao
+druddigon
+golett
+golurk
+pawniard
+bisharp
+bouffalant
+rufflet
+braviary
+vullaby
+mandibuzz
+heatmor
+durant
+deino
+zweilous
+hydreigon
+larvesta
+volcarona
+cobalion
+terrakion
+virizion
+tornadus-incarnate
+thundurus-incarnate
+reshiram
+zekrom
+landorus-incarnate
+kyurem
+keldeo-ordinary
+meloetta-aria
+genesect
+chespin
+quilladin
+chesnaught
+fennekin
+braixen
+delphox
+froakie
+frogadier
+greninja
+bunnelby
+diggersby
+fletchling
+fletchinder
+talonflame
+scatterbug
+spewpa
+vivillon
+litleo
+pyroar
+flabebe
+floette
+florges
+skiddo
+gogoat
+pancham
+pangoro
+furfrou
+espurr
+meowstic-male
+honedge
+doublade
+aegislash-shield
+spritzee
+aromatisse
+swirlix
+slurpuff
+inkay
+malamar
+binacle
+barbaracle
+skrelp
+dragalge
+clauncher
+clawitzer
+helioptile
+heliolisk
+tyrunt
+tyrantrum
+amaura
+aurorus
+sylveon
+hawlucha
+dedenne
+carbink
+goomy
+sliggoo
+goodra
+klefki
+phantump
+trevenant
+pumpkaboo-average
+gourgeist-average
+bergmite
+avalugg
+noibat
+noivern
+xerneas
+yveltal
+zygarde-50
+diancie
+hoopa
+volcanion
+rowlet
+dartrix
+decidueye
+litten
+torracat
+incineroar
+popplio
+brionne
+primarina
+pikipek
+trumbeak
+toucannon
+yungoos
+gumshoos
+grubbin
+charjabug
+vikavolt
+crabrawler
+crabominable
+oricorio-baile
+cutiefly
+ribombee
+rockruff
+lycanroc-midday
+wishiwashi-solo
+mareanie
+toxapex
+mudbray
+mudsdale
+dewpider
+araquanid
+fomantis
+lurantis
+morelull
+shiinotic
+salandit
+salazzle
+stufful
+bewear
+bounsweet
+steenee
+tsareena
+comfey
+oranguru
+passimian
+wimpod
+golisopod
+sandygast
+palossand
+pyukumuku
+type-null
+silvally
+minior-red-meteor
+komala
+turtonator
+togedemaru
+mimikyu-disguised
+bruxish
+drampa
+dhelmise
+jangmo-o
+hakamo-o
+kommo-o
+tapu-koko
+tapu-lele
+tapu-bulu
+tapu-fini
+cosmog
+cosmoem
+solgaleo
+lunala
+nihilego
+buzzwole
+pheromosa
+xurkitree
+celesteela
+kartana
+guzzlord
+necrozma
+magearna
+marshadow
+poipole
+naganadel
+stakataka
+blacephalon
+zeraora
+meltan
+melmetal
+grookey
+thwackey
+rillaboom
+scorbunny
+raboot
+cinderace
+sobble
+drizzile
+inteleon
+skwovet
+greedent
+rookidee
+corvisquire
+corviknight
+blipbug
+dottler
+orbeetle
+nickit
+thievul
+gossifleur
+eldegoss
+wooloo
+dubwool
+chewtle
+drednaw
+yamper
+boltund
+rolycoly
+carkol
+coalossal
+applin
+flapple
+appletun
+silicobra
+sandaconda
+cramorant
+arrokuda
+barraskewda
+toxel
+toxtricity-amped
+sizzlipede
+centiskorch
+clobbopus
+grapploct
+sinistea
+polteageist
+hatenna
+hattrem
+hatterene
+impidimp
+morgrem
+grimmsnarl
+obstagoon
+perrserker
+cursola
+sirfetchd
+mr-rime
+runerigus
+milcery
+alcremie
+falinks
+pincurchin
+snom
+frosmoth
+stonjourner
+eiscue-ice
+indeedee-male
+morpeko-full-belly
+cufant
+copperajah
+dracozolt
+arctozolt
+dracovish
+arctovish
+duraludon
+dreepy
+drakloak
+dragapult
+zacian
+zamazenta
+eternatus
+kubfu
+urshifu-single-strike
+zarude
+regieleki
+regidrago
+glastrier
+spectrier
+calyrex
+wyrdeer
+kleavor
+ursaluna
+basculegion-male
+sneasler
+overqwil
+enamorus-incarnate
+deoxys-attack
+deoxys-defense
+deoxys-speed
+wormadam-sandy
+wormadam-trash
+shaymin-sky
+giratina-origin
+rotom-heat
+rotom-wash
+rotom-frost
+rotom-fan
+rotom-mow
+castform-sunny
+castform-rainy
+castform-snowy
+basculin-blue-striped
+darmanitan-zen
+meloetta-pirouette
+tornadus-therian
+thundurus-therian
+landorus-therian
+kyurem-black
+kyurem-white
+keldeo-resolute
+meowstic-female
+aegislash-blade
+pumpkaboo-small
+pumpkaboo-large
+pumpkaboo-super
+gourgeist-small
+gourgeist-large
+gourgeist-super
+venusaur-mega
+charizard-mega-x
+charizard-mega-y
+blastoise-mega
+alakazam-mega
+gengar-mega
+kangaskhan-mega
+pinsir-mega
+gyarados-mega
+aerodactyl-mega
+mewtwo-mega-x
+mewtwo-mega-y
+ampharos-mega
+scizor-mega
+heracross-mega
+houndoom-mega
+tyranitar-mega
+blaziken-mega
+gardevoir-mega
+mawile-mega
+aggron-mega
+medicham-mega
+manectric-mega
+banette-mega
+absol-mega
+garchomp-mega
+lucario-mega
+abomasnow-mega
+floette-eternal
+latias-mega
+latios-mega
+swampert-mega
+sceptile-mega
+sableye-mega
+altaria-mega
+gallade-mega
+audino-mega
+sharpedo-mega
+slowbro-mega
+steelix-mega
+pidgeot-mega
+glalie-mega
+diancie-mega
+metagross-mega
+kyogre-primal
+groudon-primal
+rayquaza-mega
+pikachu-rock-star
+pikachu-belle
+pikachu-pop-star
+pikachu-phd
+pikachu-libre
+pikachu-cosplay
+hoopa-unbound
+camerupt-mega
+lopunny-mega
+salamence-mega
+beedrill-mega
+rattata-alola
+raticate-alola
+raticate-totem-alola
+pikachu-original-cap
+pikachu-hoenn-cap
